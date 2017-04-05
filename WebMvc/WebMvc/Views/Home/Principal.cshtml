@@ -1,0 +1,27 @@
+﻿<div class="row">
+    <div>&nbsp;</div>
+    <div>&nbsp;</div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Type</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                var no = 1;
+                foreach (var claim in ViewBag.Principal)
+                {
+                <tr>
+                    <td>@no</td>
+                    <td>@claim.Type</td>
+                    <td>@claim.Value</td>
+                </tr>
+                    no++;
+                }
+            }
+        </tbody>
+    </table>
+</div>
