@@ -32,21 +32,19 @@ Open your VisualStudio and Clone this Project
 
 ScreenShoot
 -------
-Web MVC User Claims 
 
-![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-1.PNG "Return Login Web MVC")
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-1.PNG "Web MVC User Claims ")
+ 
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-4.PNG "Get Token Web MVC")
 
-Get Token Web MVC
-![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-4.PNG "-")
+ 
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-3.PNG "Web Form User Claims ")
+ 
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-2.png "Get Token Web Form")
 
-Web Form User Claims 
-![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-3.PNG "-")
 
-Get Token Web Form
-![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-2.png "-")
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-5.PNG "WPF Retun Value")
 
-WPF Retun Value
-![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-5.PNG "Return Value WPF")
 
 Reference
 ---------
