@@ -10,6 +10,7 @@ Prerequisites
 
 Application Settings
 ------------ 
+Find in each Application web.config
 * -add key="ida:ADFSMetadata" value="adfs/FederationMetadata/2007-06/FederationMetadata.xml" />
 * -add key="ida:Wtrealm" value="{urn:xxx:***}" /> 
 * -add key="ida:Application" value="{Your Application Name}" />
