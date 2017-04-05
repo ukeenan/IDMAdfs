@@ -33,7 +33,6 @@ Open your VisualStudio and Clone this Project
 
 Reference
 ---------
-
-1. https://technet.microsoft.com/en-us/windows-server-docs/identity/ad-fs/development/ad-fs-on-behalf-of-authentication-in-windows-server-2016
-2. https://msdn.microsoft.com/en-us/library/bb897402.aspx
-3. https://technet.microsoft.com/en-us/windows-server-docs/identity/ad-fs/development/enabling-openid-connect-with-ad-fs-2016
+1. What's new in Active Directory Federation Services for Windows Server 2016 https://technet.microsoft.com/en-us/windows-server-docs/identity/ad-fs/development/ad-fs-on-behalf-of-authentication-in-windows-server-2016
+2. About Active Directory Federation Services https://msdn.microsoft.com/en-us/library/bb897402.aspx
+3. Create an Application Group in AD FS 2016  https://technet.microsoft.com/en-us/windows-server-docs/identity/ad-fs/development/enabling-openid-connect-with-ad-fs-2016
