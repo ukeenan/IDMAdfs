@@ -64,10 +64,10 @@ namespace TestWPFApp
         }
         string GetAuthorizationHeader()
         {
-            string authority = "https://login.publicsector.id/adfs";
-            string resourceURI = "urn:webapi:idm"; 
-            string clientID = "2bf3280d-1c3e-4f57-875c-254b28b283bb"; 
-            string clientReturnURI = "http://WebIdmAdfs2016"; 
+            string authority = "loginAdfs/adfs";
+            string resourceURI = "{urn:xxx:***}"; 
+            string clientID = "{ClientID}"; 
+            string clientReturnURI = "{RedirectUri}"; 
 
             AuthenticationContext ac = new AuthenticationContext(authority, false); 
             try {
