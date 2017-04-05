@@ -20,7 +20,6 @@ Application Settings
 
 Source Contains
 ---------
-
 1. C# WPF
 2. C# Web Api
 3. C# Web Form
@@ -28,8 +27,25 @@ Source Contains
 
 Usage
 -----
-
 Open your VisualStudio and Clone this Project  
+
+ScreenShoot
+-------
+Web MVC User Claims 
+
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-1.PNG "Return Login Web MVC")
+
+Get Token Web MVC
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-4.PNG "-")
+
+Web Form User Claims 
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-3.PNG "-")
+
+Get Token Web Form
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-2.png "-")
+
+WPF Retun Value
+![alt text](https://github.com/ukeenan/IDMAdfs2016/blob/master/Administration%20ADFS%20ScreenShoot/Capture-5.PNG "Return Value WPF")
 
 Reference
 ---------
