@@ -11,13 +11,13 @@ Prerequisites
 Application Settings
 ------------ 
 Find in each Application web.config
-* -add key="ida:ADFSMetadata" value="adfs/FederationMetadata/2007-06/FederationMetadata.xml" />
-* -add key="ida:Wtrealm" value="{urn:xxx:***}" /> 
-* -add key="ida:Application" value="{Your Application Name}" />
-* -add key="ida:ApiUser" value="{Api User}" />
-* -add key="ida:ApiPassword" value="{Api Password}" />
-* -add key="ida:ApiGrantType" value="password" />
-* -add key="ida:ApiUrl" value="https://localhost:44331/" /> 
+* &lt;add key="ida:ADFSMetadata" value="adfs/FederationMetadata/2007-06/FederationMetadata.xml" /&rt;
+* &lt;add key="ida:Wtrealm" value="{urn:xxx:***}" /&rt;
+* &lt;add key="ida:Application" value="{Your Application Name}" /&rt;
+* &lt;add key="ida:ApiUser" value="{Api User}" /&rt;
+* &lt;add key="ida:ApiPassword" value="{Api Password}" /&rt;
+* &lt;add key="ida:ApiGrantType" value="password" /&rt;
+* &lt;add key="ida:ApiUrl" value="https://localhost:44331/" /&rt;
 
 Source Contains
 ---------
