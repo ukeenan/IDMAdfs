@@ -1,5 +1,5 @@
-# IDMAdfs2016OnPremise
-Demo Identity Management Active Directory Federation System 2016 Premise
+# IDMAdfsOnPremise
+Demo Identity Management Active Directory Federation System OnPremise
 
 Prerequisites
 -------------
